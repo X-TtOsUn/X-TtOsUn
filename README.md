@@ -3,7 +3,6 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TtOsUn%20&theme=vue)](https://x-ttosun.tistory.com/)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttosun)](https://solved.ac/ttosun)
